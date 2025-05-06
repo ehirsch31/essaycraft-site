@@ -3,6 +3,6 @@ languageCode: en-us
 title: My New Hugo Site
 theme: site-theme
 relativeURLs: true
-canonifyURLs: true
+canonifyURLs: false
 
 
