@@ -75,7 +75,7 @@ header, body > main, footer {
   position: relative;
   display: inline-block;
   padding-bottom: 0.3125rem;
-  border-bottom: 1.5px dashed rgb(236, 82, 82);
+  border-bottom: 2.2px dashed rgb(180 4 34);
   letter-spacing: .1em;
 }
 
