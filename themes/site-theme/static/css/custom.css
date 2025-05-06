@@ -150,7 +150,7 @@ header, body > main, footer {
   margin-bottom: 0.625rem;
   padding-top: 0.3125rem;
   gap: 1.6rem;
-  letter-spacing: .0.5625rem;
+  letter-spacing: 0.5625rem;
 }
 .main-nav li {
   display: inline-block;
