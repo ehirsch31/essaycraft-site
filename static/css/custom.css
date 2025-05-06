@@ -786,7 +786,7 @@ border-bottom: 0.0625rem solid grey;
 .services-intro{
   font-family: var(--title-font);
   font-size: 1.0625rem;
-  padding-top: 1rem;
+  padding-top: 3rem;
   padding-bottom: .5rem;
   line-height: 1.6 
 }
