@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://ehirsch31.github.io/essaycraft-site/"
 languageCode: en-us
 title: My New Hugo Site
 theme: site-theme
