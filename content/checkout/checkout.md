@@ -1,0 +1,17 @@
+---
+title: "Checkout"
+url: "/checkout/"
+draft: false
+sitemap: false
+menu: ""
+---
+
+<div id="buy-button-container"></div>
+
+<script async src="https://js.stripe.com/v3/buy-button.js"></script>
+
+<stripe-buy-button>
+  buy-button-id="buy_btn_1RPu8pA7t8yr3Q2DU0Z0ff6y"
+  publishable-key="pk_live_51RGYU7A7t8yr3Q2DfKAs97e5UdzXKb77Gcyh9Ysrhnq36guly6tB3od27j65A6B6idsobxtHMxeXPzX8aGP9kX5D000m6Ppa8i">
+</stripe-buy-button>
+
